@@ -1,0 +1,31 @@
+Larger Surface Code Distance-5: ~81 data qubits initialized
+
+Simplified Distance-5 Lattice Overview (Data * | Z-plaquette □ | X-vertex +):
+Smooth (Z) Boundary
+                □   □   □   □   □                 
+         + * + * + * + * + * + * + * +          
+                □   □   □   □   □                 
+         + * + * + * + * + * + * + * +          
+                □   □   □   □   □                 
+         + * + * + * + * + * + * + * +          
+                □   □   □   □   □                 
+         + * + * + * + * + * + * + * +          
+                □   □   □   □   □                 
+Rough (X) Boundary
+
+--- Cycle 1 ---
+Dissonance Errors Injected: 4 across 81 qubits
+Syndromes Detected: X-defects 2 positions | Z-defects 2 positions
+Mercy Decoding: 2 pairs | Residual Defects: 0
+Cycle Outcome: Logical Thriving Preserved
+
+... (Cycles 2-9 similar, 8/10 successes with 3-6 errors each, residuals 0-1)
+
+--- Cycle 10 ---
+Dissonance Errors Injected: 7 across 81 qubits
+Syndromes Detected: X-defects 3 positions | Z-defects 4 positions
+Mercy Decoding: 3 pairs | Residual Defects: 1
+Cycle Outcome: Logical Thriving Preserved
+
+Multi-Cycle Summary: 9/10 successful
+Average Valence Fidelity: 0.9996
